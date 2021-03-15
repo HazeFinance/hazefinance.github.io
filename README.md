@@ -1,2 +1,1 @@
-# hazefinance.github.io
-haze official website
+# Haze Finance Main Page
